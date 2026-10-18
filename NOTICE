@@ -1,0 +1,32 @@
+content-identity-core
+Copyright (c) 2026 Onix Research
+
+Current owned-source grant
+--------------------------
+The operator authorized AGPL-3.0-or-later for current and new owned material.
+Except for separately identified third-party material or immutable historical
+source, the owned Rust package, tests, fixtures, templates, contracts, schemas,
+configuration, policy, lifecycle material, and documentation in this repository
+are licensed under the GNU Affero General Public License, version 3 or (at your
+option) any later version. The complete version 3 text is in LICENSE.
+
+This material is distributed without any warranty; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See LICENSE.
+
+Historical grants and dependency terms
+-------------------------------------
+The original MIT extraction authorization on 2026-08-07 remains recorded in
+SOURCE.md. LICENSE-MIT preserves that grant and original attribution. Earlier
+grants cannot be revoked by this preparation: byte-identical content already
+covered by such a grant remains available under it. The historical MIT text
+does not offer MIT terms for new owned contributions.
+
+Third-party dependencies retain their own licenses; their terms are recorded
+in SOURCE.md. The current manifest declares BLAKE3 =1.8.6, and the source
+inventory now reflects that existing declaration without changing it.
+
+The original extraction revisions, canonical RID, reviewed object, archive
+identity, read-only adapter, and consumers' immutable source pins remain
+unchanged. Those older source objects retain their original bytes and grants.
+This working-tree preparation does not publish a new revision, alter a retained
+snapshot, or establish release readiness.

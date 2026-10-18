@@ -1,0 +1,9 @@
+VERDICT: PASS
+RID: rad:zA14jhTdwST4PxPBdsryc4zS7Kpq
+REVIEWED_OBJECT: 7f55597b5dc879b7601856e8d7fd0dbacaa2a498
+SOURCE_ARCHIVE_BLAKE3: af024d70e39195a018e54cf31fdbba0dc64928af30e108f99d5988a3b10d0b7c
+READ_ONLY_ADAPTER: https://seed.radicle.garden/zA14jhTdwST4PxPBdsryc4zS7Kpq.git
+ACQUISITION: fresh clone and exact object lookup passed
+NEGATIVE: unknown ref returned no object
+FALLBACK: none
+DEPENDENCY_COMPATIBILITY: BLAKE3 1.8.5 retained all fixed vectors and admits maintained Lattice consumers

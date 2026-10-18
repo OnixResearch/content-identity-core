@@ -1,0 +1,16 @@
+[package]
+name = "content-identity-core"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+description = "Product-neutral BLAKE3 identity framing based on Lattice encoding"
+license = "AGPL-3.0-or-later"
+publish = false
+repository = "https://seed.radicle.garden/zA14jhTdwST4PxPBdsryc4zS7Kpq.git"
+
+[dependencies]
+blake3 = { version = "=1.8.6", default-features = false }
+serde = { version = "1.0.228", default-features = false, features = ["alloc", "derive"] }
+
+[lints.rust]
+unsafe_code = "forbid"
